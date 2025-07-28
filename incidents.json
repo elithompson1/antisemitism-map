@@ -1,0 +1,12 @@
+[
+  {
+    "id": "incident_1",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "date": "1247-05-12",
+    "category": "Blood Libel",
+    "source": "https://example.com",
+    "summary": "A false accusation led to mass arrests in Paris.",
+    "intensity": 5
+  }
+]
